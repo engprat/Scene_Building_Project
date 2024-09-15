@@ -1,4 +1,4 @@
-                                                                                                **Scene Building Project**
+**Scene Building Project**
 
 Scene Building Project is a Unity application designed as a testing and development tool for exploring and refining camera and user interface (UI) elements. This project serves as a foundational platform for evaluating various aspects of scene setup and interaction, and it is intended for use in future projects.
 Features:
