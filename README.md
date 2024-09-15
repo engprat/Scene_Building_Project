@@ -12,7 +12,5 @@ Features:
 
 The Scene Building Project is designed for developers and designers to test and iterate on scene setups, camera configurations, and UI designs. By providing a controlled environment to experiment with these elements, the project aids in the development of more polished and user-friendly interfaces for future Unity projects.
 
-Future Development: 
-
-The project is intended as a base for further development, with the potential for expanding features and integrating additional testing scenarios based on future needs and feedback.
+Future Development: The project is intended as a base for further development, with the potential for expanding features and integrating additional testing scenarios based on future needs and feedback.
 
